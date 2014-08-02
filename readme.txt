@@ -13,11 +13,11 @@ A widget that is able to use content from an ACF field group.
 
 More information and code snippets of ACF Widget can be found here:
 
-https://github.com/alexvandervegt/ACF_Widget
+https://github.com/alexvandervegt/advanced-custom-fields-widget/
 
 == Installation ==
 
-* Download [the zip archive](https://github.com/alexvandervegt/ACF_Widget/archive/master.zip)
+* Download [the zip archive](https://github.com/alexvandervegt/advanced-custom-fields-widget/archive/master.zip)
 * Put it in your wp-content/plugins folder
 * Activate the plugin in your wp-admin
 

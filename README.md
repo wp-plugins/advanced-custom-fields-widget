@@ -1,10 +1,10 @@
-# ACF_Widget
+# ACF Widget
 
 A widget that is able to use content from an ACF field group.
 
 ## Installation
 
-* Download [the zip archive](https://github.com/alexvandervegt/ACF_Widget/archive/master.zip)
+* Download [the zip archive](https://github.com/alexvandervegt/advanced-custom-fields-widget/archive/master.zip)
 * Put it in your wp-content/plugins folder
 * Activate the plugin in your wp-admin
 
@@ -12,15 +12,15 @@ A widget that is able to use content from an ACF field group.
 
 ##### ACF Widget Field group added
 
-![ACF Widget Field group added](https://github.com/alexvandervegt/ACF_Widget/raw/master/screenshot1.png)
+![ACF Widget Field group added](https://github.com/alexvandervegt/advanced-custom-fields-widget/raw/master/screenshot-1.png)
 
 ##### It has the option to select the desired ACF Field group
 
-![It has the option to select the desired ACF Field group](https://github.com/alexvandervegt/ACF_Widget/raw/master/screenshot2.png)
+![It has the option to select the desired ACF Field group](https://github.com/alexvandervegt/advanced-custom-fields-widget/raw/master/screenshot-2.png)
 
 ##### After saving ACF Widget all fields are available (AJAX update is @TODO)
 
-![After saving ACF Widget all fields are available](https://github.com/alexvandervegt/ACF_Widget/raw/master/screenshot3.png)
+![After saving ACF Widget all fields are available](https://github.com/alexvandervegt/advanced-custom-fields-widget/raw/master/screenshot-3.png)
 
 ## Custom widgets
 
@@ -69,4 +69,4 @@ In the HTML output of the widget we can access the ACF fields like this
 
 #### Screenshot
 
-![It's also possible to extend ACF Widget to make fully custom widgets for developers](https://github.com/alexvandervegt/ACF_Widget/raw/master/screenshot4.png)
+![It's also possible to extend ACF Widget to make fully custom widgets for developers](https://github.com/alexvandervegt/advanced-custom-fields-widget/raw/master/screenshot-4.png)
