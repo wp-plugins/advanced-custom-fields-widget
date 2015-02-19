@@ -15,6 +15,9 @@ More information and code snippets of ACF Widget can be found here:
 
 https://github.com/alexvandervegt/advanced-custom-fields-widget/
 
+Guide:
+https://www.directbasing.com/resources/wordpress/advanced-custom-fields-widget/
+
 == Installation ==
 
 * Download [the zip archive](https://github.com/alexvandervegt/advanced-custom-fields-widget/archive/master.zip)
